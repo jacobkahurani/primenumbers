@@ -1,0 +1,1 @@
+A repository containing a test function with atleast five testcases, a python function to generate prime numbers in a specified range from zero to n.
